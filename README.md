@@ -1,6 +1,6 @@
 # Hogun-Development-Survey-Excel-Analysis
 
-In this project the Analysis of Hogan Development Survey (HDS) scores for a group of 16 executives is performed on Excel, the findings are then summerized in Report.
+In this project the Analysis of Hogan Development Survey (HDS) scores for a group of 16 executives is performed on Excel, the findings are then summerized and presented in Report.
 
 ## Business Problem & Questions
 
